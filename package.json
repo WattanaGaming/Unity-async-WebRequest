@@ -1,0 +1,7 @@
+{
+  "name": "com.wattanagaming.async-webrequest",
+  "version": "1.0.0",
+  "displayName": "Async Web Request",
+  "description": "Make Web Requests asynchronously",
+  "type": "library"
+}
